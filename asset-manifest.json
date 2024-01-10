@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beach-Bliss/static/css/main.733f93be.css",
+    "main.js": "/Beach-Bliss/static/js/main.3215259c.js",
+    "index.html": "/Beach-Bliss/index.html",
+    "main.733f93be.css.map": "/Beach-Bliss/static/css/main.733f93be.css.map",
+    "main.3215259c.js.map": "/Beach-Bliss/static/js/main.3215259c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733f93be.css",
+    "static/js/main.3215259c.js"
+  ]
+}
